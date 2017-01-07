@@ -1,5 +1,5 @@
 {
-  "name": "angular-localization-app",
+  "name": "angular-data-sharing-controllers-app",
   "description": "",
   "main": "index.js",
   "authors": "",
@@ -7,7 +7,6 @@
   "homepage": "",
   "dependencies": {
     "lodash": "^4.17.3",
-    "angular-localization": "^1.2.1",
     "angular-sanitize": "^1.6.1",
     "angular": "angularjs#^1.6.1",
     "bootstrap": "^3.3.7",
