@@ -8,7 +8,7 @@
     "description": "This project demonstrate how share data between controllers in angularjs",
     "author": {
         "name": "Purshottam Sharma",
-        "email": "purshottam.indore@gmail.com",
+        "email": "purshottam.indore@gmail.com"
     },
     "repository": {
         "type": "git",
